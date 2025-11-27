@@ -1,7 +1,7 @@
 
 
 # EX 17 C Program to compare two strings without using strcmp().
-## DATE:
+
 ## AIM:
 To write a C Program to compare two strings without using strcmp().
 
