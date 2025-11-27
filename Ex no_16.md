@@ -1,6 +1,6 @@
 
 # EX 16 C program to find minimum between three fraction numbers using conditional operator.
-## DATE:
+
 ## AIM:
 To write a C program to find minimum between three fraction numbers using conditional operator.
 
